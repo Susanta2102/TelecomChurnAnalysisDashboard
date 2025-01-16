@@ -122,8 +122,8 @@ graph TD
 ## 📫 Contact
 
 For questions or feedback about this analysis, please contact:
-- 📧 Email: [your.email@domain.com]
-- 💼 LinkedIn: [Your LinkedIn Profile]
+- 📧 Email: [susantabaidya20133@gmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/susanta-baidya-03436628a/e]
 
 ---
 
